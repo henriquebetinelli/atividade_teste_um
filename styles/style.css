@@ -1,0 +1,22 @@
+/* estilo da navbar */
+nav{
+    /* colocar a navbar em uma linha */
+    display: flex;
+    /* mudar a cor de fundo */
+    background-color: rgb(31, 31, 189);
+    /* mudar a cor do texto */
+    color: azure;
+    /* centralizar o conteúdo */
+    justify-content: center;
+    /* alinhar os itens ao centro */
+    align-items: center;
+}
+/* estilo do corpo */
+body{
+    /* remover margem padrão */
+    margin: 0;
+    /* remover preenchimento padrão */
+    padding: 0;
+    /* definir a fonte padrão */
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
